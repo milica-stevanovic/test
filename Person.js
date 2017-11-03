@@ -6,8 +6,7 @@ class Person {
   }
 
   getFullName() {
-    //@TODO Missing implementation
-    console.log('Get full name');
+    return 'Dog';
   }
 
 }
